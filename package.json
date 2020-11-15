@@ -1,0 +1,26 @@
+{
+  "name": "problem-solving",
+  "version": "1.0.0",
+  "description": "사용 언어: Python, Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest $INIT_CWD",
+    "test:all": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kangdyu/problem-solving.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kangdyu/problem-solving/issues"
+  },
+  "homepage": "https://github.com/Kangdyu/problem-solving#readme",
+  "type": "module",
+  "dependencies": {
+    "@types/jest": "^26.0.15",
+    "jest": "^26.6.3"
+  }
+}
